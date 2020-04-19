@@ -6,6 +6,22 @@
   GoStack FastFeet - Back-end
 </h3>
 
+### Description ###
+Back-end of a fake logistics company app called FastFeet.
+
+Tools and technologies used on this project:
+
+- Javascript ES6
+- Node.JS
+- Express
+- Sucrase + Nodemon
+- Sequelize
+- PostgreSQL
+- Multer
+- Date-fns
+- Nodemailer
+- JWT Authentication
+
 ## Instructions
 
 Change directory to the backend folder `cd backend` and run `yarn install`.
