@@ -1,3 +1,11 @@
+<h1 align="center">
+  <img alt="Fastfeet" title="Fastfeet" src="https://github.com/Rocketseat/bootcamp-gostack-desafio-02/raw/master/.github/logo.png" width="300px" />
+</h1>
+
+<h3 align="center">
+  GoStack FastFeet - Back-end
+</h3>
+
 ## Instructions
 
 Change directory to the backend folder `cd backend` and run `yarn install`.
